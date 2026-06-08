@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author NguyenVanDuc
+ * @author Kisho
  */
 class Staff {
     String id, name, position;
