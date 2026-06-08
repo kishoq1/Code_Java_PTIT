@@ -7,7 +7,7 @@ import java.math.BigInteger;
 import java.util.Scanner;
 /**
  *
- * @author ASUS
+ * @author Kisho
  */
 public class Boisochungnhonhat {
     public static void main(String[] args) {
