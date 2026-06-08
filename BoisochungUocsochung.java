@@ -6,7 +6,7 @@ package CodePTIT;
 import java.util.Scanner;
 /**
  *
- * @author ASUS
+ * @author Kisho
  */
 public class BoisochungUocsochung {
     static Scanner input = new Scanner(System.in);
